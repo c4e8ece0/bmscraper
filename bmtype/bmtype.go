@@ -12,6 +12,7 @@ type Odd struct {
 
 //
 type Bookmaker interface {
-	Sports() []string // Return list of sports
-	Get() []Odd       // Array of fetched odds
+	New(chan chan string) // New object with chan to pool
+	Sports() []string     // Return list of sports
+	Get() []Odd           // Array of fetched odds
 }
