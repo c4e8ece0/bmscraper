@@ -2,16 +2,11 @@
 package main
 
 import (
-	"./bmst"
-	"./org"
+	"github.com/c4e8ece0/bmscraper/org"
+	"github.com/c4e8ece0/bmscraper/type"
 )
 
 //
 func main() {
-	// ...
-}
-
-// GetUrl() send url to the pool of http-fetchers and return data about odds
-func GetUrl() {
 	// ...
 }

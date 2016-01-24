@@ -1,5 +1,5 @@
 // Package bmhttp make all job with socks5-proxy and resource pooling
-package bmhttp
+package http
 
 import (
 	"net/http"
