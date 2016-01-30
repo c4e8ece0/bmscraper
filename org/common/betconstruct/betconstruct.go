@@ -4,6 +4,8 @@
 package betconstruct
 
 import (
+	"io"
+
 	"github.com/c4e8ece0/bmscraper/types"
 )
 
@@ -12,7 +14,7 @@ type Unit struct {
 }
 
 func (u *Unit) Get(r io.Reader) {
-
+	// TODO: parse json
 }
 
 type Values struct {

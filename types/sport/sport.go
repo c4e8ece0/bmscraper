@@ -49,7 +49,7 @@ const (
 // Map english translation of sport.CONSTs
 func En(t int) string {
 	n, e := enstr[t]
-	if e {
+	if !e {
 		return "Unknown ID"
 	}
 	return n
@@ -89,10 +89,10 @@ var enstr = map[int]string{
 	WATERPOLO:       "Water Polo",
 }
 
-// English translation of sport.CONSTs
+// Russian translation of sport.CONSTs
 func Ru(t int) string {
 	n, e := rustr[t]
-	if e {
+	if !e {
 		return "Неизвестный ID"
 	}
 	return n
