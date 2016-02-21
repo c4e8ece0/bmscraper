@@ -22,6 +22,7 @@ type Odd struct {
 
 //
 type Bookmaker interface {
+	Name() string         // Return name of bookmaker
 	Register()            // Register bookmaker themself in org package
 	New(chan chan string) // New object with chan to pool
 	Sports() []string     // Return list of Country+League+Sports+Tournaments

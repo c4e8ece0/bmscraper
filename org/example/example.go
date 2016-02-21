@@ -7,6 +7,10 @@ import (
 	"github.com/c4e8ece0/bmscraper/types"
 )
 
+func init() {
+	org.Register(new(Unit))
+}
+
 // Each bookmaker must has its own internal "Unit" struct with
 // implementation of types.Bookmaker interface.
 // For the case when bookmaker has several variants of data export
@@ -28,13 +32,4 @@ type XML struct {
 // JSON-version of scraper
 type JSON struct {
 	types.Bookmaker
-}
-
-// JSON-version of scraper
-type JSON struct {
-	types.Bookmaker
-}
-
-func init() {
-	org.Register(new(Unit))
 }
