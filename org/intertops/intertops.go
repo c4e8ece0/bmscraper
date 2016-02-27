@@ -11,15 +11,12 @@ import (
 	"github.com/c4e8ece0/bmscraper/types"
 )
 
-type Unit struct {
-	XML
-}
+type Unit struct{ XML }
 
 func init() {
 	// org.Register(types.Bookmaker{new(Unit)})
 }
 
-// XML-version of scraper
 type XML struct {
 	types.Bookmaker
 }
@@ -32,15 +29,16 @@ func ParseXML(r io.Reader) (XMLOdds, error) {
 	return v, e
 }
 
-type XMLLine struct {
-	Name  string `xml:"name,attr"`
-	Value string `xml:",chardata"`
+type XMLOdds struct {
+	Competition []XMLCompetition `xml:"Competition"`
 }
 
-type XMLBet struct {
-	Type  string    `xml:"type,attr"`
-	Id    string    `xml:"id,attr"`
-	Lines []XMLLine `xml:"line"`
+type XMLCompetition struct {
+	Name    string     `xml:"Name"`
+	Id      string     `xml:"id,attr"`
+	Sprtyp  string     `xml:"sprtyp,attr"`
+	Compno  string     `xml:"compno,attr"`
+	Matches []XMLMatch `xml:"Match"`
 }
 
 type XMLMatch struct {
@@ -52,14 +50,13 @@ type XMLMatch struct {
 	Bets           []XMLBet `xml:"Bet"`
 }
 
-type XMLCompetition struct {
-	Name    string     `xml:"Name"`
-	Id      string     `xml:"id,attr"`
-	Sprtyp  string     `xml:"sprtyp,attr"`
-	Compno  string     `xml:"compno,attr"`
-	Matches []XMLMatch `xml:"Match"`
+type XMLBet struct {
+	Type  string    `xml:"type,attr"`
+	Id    string    `xml:"id,attr"`
+	Lines []XMLLine `xml:"line"`
 }
 
-type XMLOdds struct {
-	Competition []XMLCompetition `xml:"Competition"`
+type XMLLine struct {
+	Name  string `xml:"name,attr"`
+	Value string `xml:",chardata"`
 }

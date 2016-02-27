@@ -1,0 +1,249 @@
+Array
+(
+    [] => Array
+        (
+            [cnt] => 49
+            [tag] => Array
+                (
+                    [version] => 1
+                    [encoding] => 1
+                    [lastGame] => 2
+                    [lastContest] => 1
+                    [last] => 7
+                    [contest] => 5
+                    [sportType] => 5
+                )
+
+        )
+
+    [pinnacle_line_feed] => Array
+        (
+            [cnt] => 1
+        )
+
+    [PinnacleFeedTime] => Array
+        (
+            [cnt] => 1
+        )
+
+    [lastContest] => Array
+        (
+            [cnt] => 1
+        )
+
+    [lastGame] => Array
+        (
+            [cnt] => 1
+        )
+
+    [events] => Array
+        (
+            [cnt] => 1
+        )
+
+    [event] => Array
+        (
+            [cnt] => 1636
+        )
+
+    [event_datetimeGMT] => Array
+        (
+            [cnt] => 1636
+        )
+
+    [gamenumber] => Array
+        (
+            [cnt] => 1636
+        )
+
+    [sporttype] => Array
+        (
+            [cnt] => 1636
+        )
+
+    [league] => Array
+        (
+            [cnt] => 1636
+        )
+
+    [IsLive] => Array
+        (
+            [cnt] => 1383
+        )
+
+    [participants] => Array
+        (
+            [cnt] => 1636
+        )
+
+    [participant] => Array
+        (
+            [cnt] => 4442
+        )
+
+    [participant_name] => Array
+        (
+            [cnt] => 4442
+        )
+
+    [contestantnum] => Array
+        (
+            [cnt] => 4442
+        )
+
+    [rotnum] => Array
+        (
+            [cnt] => 4442
+        )
+
+    [visiting_home_draw] => Array
+        (
+            [cnt] => 3387
+        )
+
+    [periods] => Array
+        (
+            [cnt] => 1383
+        )
+
+    [period] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [period_number] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [period_description] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [periodcutoff_datetimeGMT] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [period_status] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [period_update] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [spread_maximum] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [moneyline_maximum] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [total_maximum] => Array
+        (
+            [cnt] => 1366
+        )
+
+    [moneyline] => Array
+        (
+            [cnt] => 849
+        )
+
+    [moneyline_visiting] => Array
+        (
+            [cnt] => 849
+        )
+
+    [moneyline_home] => Array
+        (
+            [cnt] => 849
+        )
+
+    [spread] => Array
+        (
+            [cnt] => 1120
+        )
+
+    [spread_visiting] => Array
+        (
+            [cnt] => 1120
+        )
+
+    [spread_adjust_visiting] => Array
+        (
+            [cnt] => 1120
+        )
+
+    [spread_home] => Array
+        (
+            [cnt] => 1120
+        )
+
+    [spread_adjust_home] => Array
+        (
+            [cnt] => 1120
+        )
+
+    [total] => Array
+        (
+            [cnt] => 979
+        )
+
+    [total_points] => Array
+        (
+            [cnt] => 979
+        )
+
+    [over_adjust] => Array
+        (
+            [cnt] => 977
+        )
+
+    [under_adjust] => Array
+        (
+            [cnt] => 977
+        )
+
+    [moneyline_draw] => Array
+        (
+            [cnt] => 426
+        )
+
+    [contest_maximum] => Array
+        (
+            [cnt] => 253
+        )
+
+    [description] => Array
+        (
+            [cnt] => 253
+        )
+
+    [odds] => Array
+        (
+            [cnt] => 1055
+        )
+
+    [moneyline_value] => Array
+        (
+            [cnt] => 1055
+        )
+
+    [to_base] => Array
+        (
+            [cnt] => 1055
+        )
+
+    [units] => Array
+        (
+            [cnt] => 2
+        )
+
+)

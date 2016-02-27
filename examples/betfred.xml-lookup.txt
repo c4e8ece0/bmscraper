@@ -1,0 +1,68 @@
+Array
+(
+    [category] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [name] => 1
+                    [timeGenerated] => 1
+                    [Bookmaker] => 1
+                )
+
+        )
+
+    [event] => Array
+        (
+            [cnt] => 19
+            [tag] => Array
+                (
+                    [name] => 19
+                    [eventid] => 19
+                    [date] => 19
+                    [time] => 19
+                    [meeting] => 19
+                    [venue] => 19
+                )
+
+        )
+
+    [bettype] => Array
+        (
+            [cnt] => 1052
+            [tag] => Array
+                (
+                    [bet-start-date] => 1052
+                    [bet-start-time] => 1052
+                    [ewreduction] => 2
+                    [ewplaceterms] => 2
+                    [eachway] => 2
+                    [suspended] => 1052
+                    [name] => 1052
+                    [inrunning] => 1052
+                    [bettypeid] => 1052
+                    [handicap] => 181
+                )
+
+        )
+
+    [bet] => Array
+        (
+            [cnt] => 6357
+            [tag] => Array
+                (
+                    [name] => 6357
+                    [short-name] => 6357
+                    [id] => 6357
+                    [price] => 6357
+                    [priceDecimal] => 6357
+                    [priceUS] => 6357
+                    [active-price-types] => 6357
+                    [had-value] => 5108
+                    [handicap-id] => 489
+                    [handicap] => 489
+                )
+
+        )
+
+)

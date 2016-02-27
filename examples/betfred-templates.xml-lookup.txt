@@ -1,0 +1,38 @@
+Array
+(
+    [templates] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [timeGenerated] => 1
+                    [Bookmaker] => 1
+                )
+
+        )
+
+    [template] => Array
+        (
+            [cnt] => 349
+            [tag] => Array
+                (
+                    [name] => 349
+                    [InRunningOnly] => 349
+                    [type] => 349
+                )
+
+        )
+
+    [element] => Array
+        (
+            [cnt] => 545
+            [tag] => Array
+                (
+                    [sport] => 396
+                    [marketType] => 97
+                    [sportType] => 52
+                )
+
+        )
+
+)

@@ -2,6 +2,10 @@
 // and shows the base posibilities for working with bookmakers
 package example
 
+// @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+// FIRST TOUCH, DOESN'T MATTER
+// @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 import (
 	"github.com/c4e8ece0/bmscraper/org"
 	"github.com/c4e8ece0/bmscraper/types"

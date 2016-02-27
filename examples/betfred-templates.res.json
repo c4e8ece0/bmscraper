@@ -1,0 +1,5158 @@
+{
+	"TimeGenerated": "2016-02-25T21:10:36",
+	"Bookmaker": "Betfred",
+	"Templates": [
+		{
+			"Name": "rugby-league",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RUGBYLEAGUE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "rugby-union",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RUGBYUNION",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Greyhounds",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "UKDOG",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "AUSDOG",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "DOG SPECIALS",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "NGHTDG",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "VSGREYHOUND",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "bowls2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BOWLS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Championship",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CHAMP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-English-League-1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "LGE1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-League-2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "LGE 2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Conference",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CONF",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BLUESQPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-FA-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FACUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Carling-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CARLCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-SPL",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Scottish-League-1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SCOTLG1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Scottish-League-2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SCOTLG2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Scottish-League-3",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SCOTLG3",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Scottish-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SCOTCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Scottish-CIS-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CISCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Spanish-Primera",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "PRIMERA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Italian-Serie-A",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SERIEA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-French-Ligue-1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FRLG1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-German-Bundesliga",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GERBUND",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Dutch-Eredivisie",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EREDIVISIE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Belgian-Jupiler-League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BELGJUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Euro-2008",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EURO2008",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Champions-League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CHAMPSLGE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-UEFA-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "UEFACUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-World-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WORLDCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "scorecast-test",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "6294.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "5350.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "1916.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf_Mobile_Outrights",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "8437.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8443.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8426.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8412.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8418.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8401.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-French_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FRENCHCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-German_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GERMANCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Italian_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ITALIANCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Spanish_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPANISHCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Serie_B",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SERIEB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Segunda_Liga",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SEGUNDA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Ligue_2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FRLG2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Bundesliga_2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GERBUND2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Norwegian_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "NORWEGIAN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Danish_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "DANISH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Swedish_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SWEDISH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Finnish_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FINNISH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-J_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "JLEAGUE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Irish_Premier",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IREEIRCOM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-MLS",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "MLS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Austrian_Bundesliga",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "AUSTRIAN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Turkish_Super_Lig",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TURKISH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Copa_Libertadores",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "COPALIB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Asian_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ASIANCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Copa_America",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "COPAAM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Vase_Trophy",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FAVASE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-FA_Trophy",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FATROPHY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-BlueSQ_North",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BLUESQNORTH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-BlueSQ_Prem",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BLUESQPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-BlueSQ_South",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BLUESQSOUTH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "RSS_Domestic_Football",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CHAMPSLGE",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "CARLCUP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "FACUP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "PREMIERSHIP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "UEFACUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "RSS_Daily_Horseracing",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "1692.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "221.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "numberstest",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "246.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "golf-3ball",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "1516.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8625.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8575.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8550.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8417.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8467.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8600.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8500.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8525.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8650.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8442.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8675.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2340.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "golf-2ball",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "1515.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8624.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8574.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8549.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8466.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8416.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8599.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8499.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8524.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8649.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8441.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8674.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-In-Running",
+			"Is4InRunningOnly": "-1",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "365.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "847.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "106.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "482.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "1085.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "1266.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "1029.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2701.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "3746.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "4458.20",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "golf-sixshooter",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": null
+		},
+		{
+			"Name": "golf-tournament-matches",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": null
+		},
+		{
+			"Name": "Test_Football",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport Type",
+			"Elements": null
+		},
+		{
+			"Name": "Football-Brazilian_Serie_A",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BRASERIEA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "NFL-College_Football",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "NFLCOLLEGE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Horse-Racing-Daily",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "1692.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "221.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "426.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "495.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "1792.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2912.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "3352.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "42216.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "42238.20",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "AntePost-Horse-Racing",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "147.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "425.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "533.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "3000.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2901.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2940.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2921.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2923.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "4741.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "4742.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "darts",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "DARTS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "bowls",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BOWLS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "baseball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BASEBALL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-inrunning",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SOCCERINPLAY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "rowing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BOAT",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "ROWING",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "American-Football",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport Type",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "NFL"
+				}
+			]
+		},
+		{
+			"Name": "US-Sport",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport Type",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BASEBALL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BASKETBALL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "NFL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "ICE HOCKEY"
+				}
+			]
+		},
+		{
+			"Name": "Horseracing_Placepots",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "3080.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Premiership",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "PREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Miscellaneous",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLUK",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-European_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-EUROTOU",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-PGA_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-PGATOUR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-LPGA_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-LPGATOU",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-Nationwide_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-NATTOUR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-Asian_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-ASIATOU",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-Challenge_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-CHALTOU",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-Japan_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-JAPTOUR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-Antepost_And_Specials",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-ANTEPOS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-Australasian_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-OZTOUR",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "GOLF-AUSTOUR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-South_African_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-SATOUR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Euro_Challenge_Shield",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-EURCHASHI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-National_Lg1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-NATLGE1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-International",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-INTERNATI",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "RUGBYINT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Representative_Match",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-REPMATCH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Varsity_Match",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-VARSITY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-France_Top_14",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-FRATOP14",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-A_International",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-A INTER",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-U19_International",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-U19 INTER",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-U21_International",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-U21 INTER",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-County_Championship_2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-CC2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-County_Championship_1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-CC1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-National_Lg1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-NATLGE1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-National_Lg2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-NATLGE2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-Twenty20",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-2020",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-Cup_Competition",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-FPT",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "CRI-CUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-Test_Series_Matches",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-TESTMATC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-ODI_Series_Matches",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-ODI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-International_Twenty20",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-2020INTE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "asian_handicaps",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "8742.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6622.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6661.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6641.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8745.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8743.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8741.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8811.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6764.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6763.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6743.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6742.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6851.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6621.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6761.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8744.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6762.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6741.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8746.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "2620.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "6642.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "WRC",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WRC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis_Antepost",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TENNIS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket_Outright",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRICKET",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Motorsports-Moto_GP",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "MOTOGP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Mobile-Twenty_20",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-2020",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "CRI-2020INTE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis-WTA",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-WTA",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "TEN-BG",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "snooker",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SNOOKER",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Winterolympics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WINTER",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "WINTER",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "WINTER",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "WINTOLYMPICS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis-ATP",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-ATP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "TENNISMISC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis-ITF",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-ITF",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Speedway-Elite-League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPEED-ELITE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Speedway-Grand-Prix",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPEED-G PRIX",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Speedway-World-Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPEED-W CUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Super_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL - SUPER",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-National_Lg1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-NATLGE1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-National_Lg2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-NATLGE2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-National_Lg3",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-NATLGE3",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-NRL",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-NRL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Challenge_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-CHALCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Northern_Rail_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-NRAILCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Tri_Nations",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-TRINATION",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Federation_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-FED CUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-World_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-WORLDCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Internationals",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-INTERNATI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-League-Representative_Matches",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL-REPMATCHE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-English_Premiership",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-ENGPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Celtic_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-CELTLGE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Six_Nations",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-SIXNATION",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-World_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-WORLDCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Tri_Nations",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-TRINATION",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "RUGBYTRI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Churchill_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-CHURCHCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Super_14",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-SUPER14",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Currie_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-CURRIECUP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "RU-CURRCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-NPC",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-NPC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Anglo_Welsh_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-ANGWELCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-Heineken_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-HEINEKEN",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "RU-EUROCHAMP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket_Outrights",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "Golf-Champions_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-CHAMPST",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "nhl",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ICEHOCKEY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Argentina_Clausura",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ARGCLAUS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Mexico_Premier_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "MEXPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Chile_Apertura",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CHILEAP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Uruguay_Clausura",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "URUGUAYCLAUS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Football_Specials",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTSPECIALS",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "ONLINEACCAS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-African_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "AFRICACUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "yachting",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport Type",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BOAT"
+				}
+			]
+		},
+		{
+			"Name": "Rugby_Union-European_Challenge_Cup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-EUROCHALL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Poker",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "POKER",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Polish_Ekstraklasa",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "POLISH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Russian_Premier_League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RUSSIAN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Johnstones_Paint_Trophy",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "JOHNS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "basketball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BASKETBALL",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "EUROBASKETB",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "COLLBASKET",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "COLLEGEBASKE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "cricket",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "horse-racing-antepost",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ANTEHORSE",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "HORSE APOST",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "golf",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "dogs",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "ice-hockey",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ICEHOCKEY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "nfl",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "NFL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "footballuk",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "football-euro",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "football-international",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "INTFOOTBALL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-bonus",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "COUPONS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "horse-racing-uk",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "UKHORSE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "horse-racing-us",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "US RACING",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "horse-racing-ireland",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IREHORSE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "dog-specials",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "DOG SPECIALS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "formula1",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FORMULA1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "speedway",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPEEDWAY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "SPEED-G PRIX",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "SPEED-ELITE",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "SPEED-W CUP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "VSSPEEDWAY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "pool",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "POOL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "boxing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BOXING1",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "1234",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "entertainment",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ENTERTAIN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "specials",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SPECIALS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "cycling",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CYCLING",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "gaelic-football",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GAELIC FBL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "hurling",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "HURLING",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "athletics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ATHLETICS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "premiership",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "PREMIERSHIP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "championship",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CHAMPIONSHIP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-outrights",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "3040.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "tennis",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport Type",
+			"Elements": null
+		},
+		{
+			"Name": "Match_Betting",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": null
+		},
+		{
+			"Name": "In-Running",
+			"Is4InRunningOnly": "-1",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "3361.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "3261.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "3241.10",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "8426.10",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "live-football",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport Type",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SOCCER"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "FOOTBALL"
+				}
+			]
+		},
+		{
+			"Name": "live-in-running",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "numbers",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "AUSLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "CANLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "FRNCHLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "GERLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "GRKLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "HKLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IRISHLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "NYLOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "SIS49",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "SPALOTTERY",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "USA LOTTERY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Portugese-Super_Liga",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "PORTSLIGA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "in_running",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport Type",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "ATHLETICS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "AUSSIE FOOTY"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BASEBALL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BASKETBALL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BOAT"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BOWLS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BOXING"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "CHESS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "COMMONW"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "CRICKET"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "CYCLING"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "DARTS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "DOGRACING"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "ENTERTAIN"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "F1"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "FOOTBALL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "GAA"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "GAELIC FBL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "GOLF"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "HORSE APOST"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "HORSERACING"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "HURLING"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "ICE HOCKEY"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "LEAGUE"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "NEW TEST"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "NFL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "NUMBERS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "PL"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "POKER"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "PUB"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "RUGBY"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "RUGBY2"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "RUGJON"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SNOOKER"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SOCCER"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SPECIALS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SPEED SKATIN"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SPEEDWAY"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "SUMO"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "TENNIS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "TOTE"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "VARIOUS"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "WINTER"
+				},
+				{
+					"MarketType": "",
+					"Sport": "",
+					"SportType": "BADMINTON"
+				}
+			]
+		},
+		{
+			"Name": "Motorsports-Miscellaneous",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "F1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Europe",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLEURO",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Horseracing-Antepost_Worldwide",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ANTEHORSEROW",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "UAT-Test",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "PREM",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "PREMIERSHIP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "UFC_MMA",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "MMA/UFC1",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-domestic-youth",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport Type",
+			"Elements": null
+		},
+		{
+			"Name": "football-domesticyouth",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "DOMYTH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-domesticfriendlies",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "DOMFRIENDLY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-europeanyouth",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EURYTH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-europeanfriendlies",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EURFRIENDLY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-internationalfriendlies",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "INTFRIENDLY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Handball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "HAND BALL",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "HANDBALL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Winter_Sports",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WINTERSPORTS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Motorsports",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "F1",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "FORMULA1",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "MOTOGP",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "WRC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis-In-Play",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-BG",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Clubfriendlies",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "DOMFRIENDLY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Rugby-Union-JuniorWC",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-JUNIORW/C",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Australia-A-League",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "AUSSIE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Athletics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICATHLE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-tottenham",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TOTT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Basketball-World",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WORLDBASKET",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "IceHockey-European",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EUROICEHOCKE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Baseball-World",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WORLDBASEBAL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "RugbyUnion-FranceProd2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-FRAPROD2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "rugby-union-varsity",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-VAR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "rugby-league-champ2",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RL - NAT3",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "cricket-aus-domestic",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-CLO-BB",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "CRI-AU20",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "cricket-ipl",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "inplay-rl-nrl",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-NRL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-rl-cc",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-CC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-rl-sl",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-SL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-rl-wc",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-WC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-rl-champ",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-CHAMP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-rl-nrc",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-NRC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-rl-int",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-RL-INT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Champsleaguet20",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI - CL20",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-btts",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBTTSMR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-Car",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-CAR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Sevens",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICFENCI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Boxing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICATHLE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Cycling",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICBADMI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Gymnastics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICBASKE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Hockey",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICBOXIN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Judo",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICCANOE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Bowls",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICCYCLI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Netball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICEQUES",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Sevens",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICFENCI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Shooting",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICFENC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Squash",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICFIELD",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-TableT",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICGYMNA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Triathlon",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICHANDB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Weight",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICJUDO",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Wrestling",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICPENTA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf-WebCom_Tour",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLF-WEBCOM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-InPlay-ICC-Test",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "Test_Template",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BRACAMGAUCHO",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Cricket-ICC-Test",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-CFC-ICCT",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-CFC-IT",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-CFC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "GoalsGalore",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "20071.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "36463.20",
+					"Sport": "",
+					"SportType": ""
+				},
+				{
+					"MarketType": "36464.20",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Goals-Galore",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTUK",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "COUPONS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Golf_Inplay",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport Type",
+			"Elements": null
+		},
+		{
+			"Name": "GolfInplay",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GOLFINPLAY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "basketball-all",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BASKETBALLHL",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BASKETBALL",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "EUROBASKETB",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "COLLEGEBASKE",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "WORLDBASKET",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "CRIC-SAD",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRIC-SAD",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Horse-racing-us-ante-post",
+			"Is4InRunningOnly": "0",
+			"Type": "Market Type",
+			"Elements": [
+				{
+					"MarketType": "147.20",
+					"Sport": "",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Cricket-Pakistan_Domestic",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-PAD",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Aff_Matches",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SERIEA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLGIB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "IceHockey-Gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EUROICEHOCKE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Basketball-Gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BASKETBALLHL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-brazil-serieb",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BRAZILSERIAB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-colombia-mustang",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "COLOMBIAMUST",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-ecuador-campeonato",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ECUADORCAMPE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-peru-tomeo-descentralizado",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "PERUDESCENTR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-venezuela-apertura",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "VENEZUELAAPE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-copa-sudamericana",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "COPASUDAMERI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-gibraltara-g",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLGIB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-gibraltarh-m",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLGIB2",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-gibraltarn-t",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLGIB3",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "football-gibraltaru-z",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTBALLGIB4",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "volleyball-gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "VOLLEYBALLGI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "fieldhockey-gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FIELDHOCKEYG",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "beachfootball-gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BEACHFOOTBAL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Futsal-Gibraltar",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FUTSAL - GIB",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "FUTSAL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-EuroChamps",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EUROCHAMPS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Greek",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GREECE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Swiss",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "SWISS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Brazil-lower",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BRAMINEIRO",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BRACAMPAULIS",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BRACAMMINEIR",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BRACAMGAUCHO",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BRACAMCARIOC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "rugbyunion-currcup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": null
+		},
+		{
+			"Name": "rugbyunion-itmcup",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RU-ITMCUP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-walesperm",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WALESPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Irishfirst",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IRIFIR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Rymanprem",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "RYMANPRE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Zamaretto",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "ZAMARETTO",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-Evostick",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "EVOSTICKPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football-NorthenIreland",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "NIREPREM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "FOOTOLYM",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTOLYM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Football_olympics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTOLYM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Aquatics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICAQUAT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Archery",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICARCHE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Badminton",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICBADMI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Basketball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICBASKE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Boxing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICBOXIN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Canoeing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICCANOE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Cycling",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICCYCLI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Equestrian",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICEQUES",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Fencing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICFENC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Fieldhockey",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICFIELD",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Gymnastics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICGYMNA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Handball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICHANDB",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Judo",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICJUDO",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Modernpetathlon",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICPENTA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Rowing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICROWIN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Sailing",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICSAILI",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Shooting",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICSHOOT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-TableTennis",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICTABLE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Taekwondo",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICSTAEK",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Triathlon",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICTRIAT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Volleyball",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICVOLLE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Weightlifting",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICWEIGH",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Olympics-Wrestling",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICWREST",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis-Grandslams",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-GS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Tennis-Masters",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-TMS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Australian-Rules",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "AUSSIE FOOTY",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "cricket-bangladesh",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CBANG",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "cric-ipl",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "CRI-IPL",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-CFC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "horsespecials",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "HORSESPECIAL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-tennis-atp",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "TEN-ATP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-tennis-masters",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-TEN-MAST",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-tennis-int",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-TEN-INT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-tennis-gs",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-TEN-GS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-tennis-wta",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-TEN-WTA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "inplay-tennis",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-TEN",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Aquatics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Athletics",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICAQUAT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Commonwealth-Badminton",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "OLYMPICARCHE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-ChampLeagueDarts",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-CLD",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-BDOWC",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-BDOWC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-EuroChampionship",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-EC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-EuroTourEvents",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-ETE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-GrandSlam",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-GSD",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-PDCWC",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-PDCWC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-PlayersChampFinal",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-PCF",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-PremierLeague",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-PL",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-UKOpen",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-UKO",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-WorldCup",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-WC",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-WorldGrandPrix",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-WGP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-WorldMasters",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-WM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Darts-WorldMatchPlay",
+			"Is4InRunningOnly": "-1",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-DA-WMP",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "Goals-Galore-Bonus",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "FOOTUK",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "COUPONS",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "InPlay-Snooker-World",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-SNO-WCHAM",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "basketball-inplay-all",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-NBA",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-NCAA",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-ET1",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-ET2",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-ROTW",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-INT",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-BG-OTH",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-NBA",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-NCAA",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-ET1",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-ET2",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-ROTW",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-INT",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IP-SP-OTH",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "BASKETBR",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "IPBASKET",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "badmintonbr",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "BADMINTBR",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "horse-racing-daily-row",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "WEBHORSE",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "HORSEWEB",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "US RACING",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "ANTEHORSEROW",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "AUSHORSE",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "HORSEFOREIGN",
+					"SportType": ""
+				},
+				{
+					"MarketType": "",
+					"Sport": "FORHORSE",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "horse-racing-derivatives",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "HORSEDERIVAT",
+					"SportType": ""
+				}
+			]
+		},
+		{
+			"Name": "greyhound-derivatives",
+			"Is4InRunningOnly": "0",
+			"Type": "Sport",
+			"Elements": [
+				{
+					"MarketType": "",
+					"Sport": "GREYDERIVAT",
+					"SportType": ""
+				}
+			]
+		}
+	]
+}

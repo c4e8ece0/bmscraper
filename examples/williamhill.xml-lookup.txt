@@ -1,0 +1,121 @@
+Array
+(
+    [] => Array
+        (
+            [cnt] => 3
+            [tag] => Array
+                (
+                    [version] => 1
+                    [encoding] => 1
+                )
+
+        )
+
+    [oxip] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [version] => 1
+                    [created] => 1
+                    [lastMsgId] => 1
+                    [requestTime] => 1
+                )
+
+        )
+
+    [response] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [request] => 1
+                    [code] => 1
+                    [message] => 1
+                    [debug] => 1
+                    [provider] => 1
+                )
+
+        )
+
+    [williamhill] => Array
+        (
+            [cnt] => 1
+        )
+
+    [class] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [id] => 1
+                    [name] => 1
+                    [maxRepDate] => 1
+                    [maxRepTime] => 1
+                )
+
+        )
+
+    [type] => Array
+        (
+            [cnt] => 4
+            [tag] => Array
+                (
+                    [id] => 4
+                    [name] => 4
+                    [url] => 4
+                    [lastUpdateDate] => 4
+                    [lastUpdateTime] => 4
+                )
+
+        )
+
+    [market] => Array
+        (
+            [cnt] => 198
+            [tag] => Array
+                (
+                    [id] => 198
+                    [name] => 198
+                    [url] => 198
+                    [date] => 198
+                    [time] => 198
+                    [betTillDate] => 198
+                    [betTillTime] => 198
+                    [lastUpdateDate] => 198
+                    [lastUpdateTime] => 198
+                    [placeAvailable] => 198
+                    [forcastAvailable] => 198
+                    [tricastAvailable] => 198
+                    [eachwayAvailable] => 198
+                    [cashoutAvailable] => 198
+                    [startingPriceAvailable] => 198
+                    [livePriceAvailable] => 198
+                    [guarenteedPriceAvailable] => 198
+                    [firstPriceAvailable] => 198
+                )
+
+        )
+
+    [participant] => Array
+        (
+            [cnt] => 594
+            [tag] => Array
+                (
+                    [name] => 594
+                    [id] => 594
+                    [odds] => 594
+                    [oddsDecimal] => 594
+                    [lastUpdateDate] => 594
+                    [lastUpdateTime] => 594
+                    [handicap] => 594
+                )
+
+        )
+
+    [disclaimer] => Array
+        (
+            [cnt] => 1
+        )
+
+)

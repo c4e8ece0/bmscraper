@@ -3,6 +3,10 @@
 // All interactions goes throught this package.
 package org
 
+// @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+// FIRST TOUCH, DOESN'T MATTER
+// @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 import (
 	"github.com/c4e8ece0/bmscraper/types"
 	"sync"

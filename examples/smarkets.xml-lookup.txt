@@ -1,0 +1,87 @@
+Array
+(
+    [] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [version] => 1
+                )
+
+        )
+
+    [odds] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [timestamp] => 1
+                )
+
+        )
+
+    [event] => Array
+        (
+            [cnt] => 1205
+            [tag] => Array
+                (
+                    [date] => 1205
+                    [id] => 1205
+                    [name] => 1205
+                    [parent] => 1205
+                    [parent_slug] => 1205
+                    [slug] => 1205
+                    [time] => 1205
+                    [type] => 1205
+                    [url] => 1205
+                )
+
+        )
+
+    [market] => Array
+        (
+            [cnt] => 14653
+            [tag] => Array
+                (
+                    [id] => 14653
+                    [slug] => 14653
+                )
+
+        )
+
+    [contract] => Array
+        (
+            [cnt] => 5377
+            [tag] => Array
+                (
+                    [id] => 5377
+                    [name] => 5377
+                    [slug] => 5377
+                )
+
+        )
+
+    [bids] => Array
+        (
+            [cnt] => 5377
+        )
+
+    [price] => Array
+        (
+            [cnt] => 25409
+            [tag] => Array
+                (
+                    [decimal] => 25409
+                    [percent] => 25409
+                    [backers_stake] => 25409
+                    [liability] => 25409
+                )
+
+        )
+
+    [offers] => Array
+        (
+            [cnt] => 5377
+        )
+
+)

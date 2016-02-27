@@ -1,0 +1,87 @@
+Array
+(
+    [] => Array
+        (
+            [cnt] => 15
+            [tag] => Array
+                (
+                    [version] => 1
+                    [encoding] => 1
+                )
+
+        )
+
+    [Odds] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [type] => 1
+                )
+
+        )
+
+    [Competition] => Array
+        (
+            [cnt] => 127
+            [tag] => Array
+                (
+                    [id] => 127
+                    [sprtyp] => 127
+                    [compno] => 127
+                )
+
+        )
+
+    [Name] => Array
+        (
+            [cnt] => 751
+        )
+
+    [Match] => Array
+        (
+            [cnt] => 624
+            [tag] => Array
+                (
+                    [id] => 624
+                )
+
+        )
+
+    [Rotation] => Array
+        (
+            [cnt] => 624
+        )
+
+    [Date] => Array
+        (
+            [cnt] => 624
+        )
+
+    [hasLiveBetting] => Array
+        (
+            [cnt] => 624
+        )
+
+    [Bet] => Array
+        (
+            [cnt] => 1404
+            [tag] => Array
+                (
+                    [type] => 1404
+                    [id] => 1404
+                )
+
+        )
+
+    [line] => Array
+        (
+            [cnt] => 5514
+            [tag] => Array
+                (
+                    [name] => 5514
+                )
+
+        )
+
+)

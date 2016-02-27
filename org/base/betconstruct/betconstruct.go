@@ -4,18 +4,111 @@
 package betconstruct
 
 import (
+	"encoding/json"
 	"io"
 
 	"github.com/c4e8ece0/bmscraper/types"
 )
 
-type Unit struct {
+type Unit struct{ JSON }
+
+// func (u *Unit) Get(r io.Reader) {
+//
+// }
+
+func ParseJSON(r io.Reader) (JSRoot, error) {
+	d := json.NewDecoder(r)
+	v := JSRoot{}
+	e := d.Decode(&v)
+	return v, e
+}
+
+type JSON struct {
 	types.Bookmaker
 }
 
-func (u *Unit) Get(r io.Reader) {
-	// TODO: parse json
+type JSRoot struct {
+	Error     string    `json:"Error"`
+	ErrorCode int       `json:"ErrorCode"`
+	Guid      string    `json:"Guid"`
+	Id        int       `json:"Id"`
+	Success   bool      `json:"Success"`
+	Values    []JSValue `json:"Value"`
 }
+
+type JSValue struct {
+	ConstId       int            `json:"ConstId"`       //3614811,
+	DopInfo       string         `json:"DopInfo"`       //null,
+	Events        []JSEvent      `json:"Events"`        //[],
+	EventsCount   int            `json:"EventsCount"`   //655,
+	Finished      bool           `json:"Finished"`      //false,
+	GameType      string         `json:"GameType"`      //"",
+	GameTypeId    int            `json:"GameTypeId"`    //1,
+	GameVid       string         `json:"GameVid"`       //"",
+	Id            int            `json:"Id"`            //66032487,
+	LigaId        int            `json:"LigaId"`        //118587,
+	MainGameId    int            `json:"MainGameId"`    //66032487,
+	NameGame      string         `json:"NameGame"`      //"",
+	Num           int            `json:"Num"`           //297,
+	Period        int            `json:"Period"`        //0,
+	PeriodName    string         `json:"PeriodName"`    //"",
+	SportId       int            `json:"SportId"`       //1,
+	Top           int            `json:"Top"`           //1000,
+	Before        int            `json:"Before"`        //156597,
+	Champ         string         `json:"Champ"`         //"Лига Чемпионов УЕФА",
+	ChampEng      string         `json:"ChampEng"`      //"UEFA Champions League",
+	ChampRus      string         `json:"ChampRus"`      //"Лига Чемпионов УЕФА",
+	GameVidEng    string         `json:"GameVidEng"`    //"",
+	GameVidRus    string         `json:"GameVidRus"`    //"",
+	MainEvents    string         `json:"MainEvents"`    //null,
+	Opp1          string         `json:"Opp1"`          //"Арсенал",
+	Opp1Eng       string         `json:"Opp1Eng"`       //"Arsenal",
+	Opp1Id        int            `json:"Opp1Id"`        //50679,
+	Opp1Rus       string         `json:"Opp1Rus"`       //"Арсенал",
+	Opp2          string         `json:"Opp2"`          //"Барселона",
+	Opp2Eng       string         `json:"Opp2Eng"`       //"Barcelona",
+	Opp2Id        int            `json:"Opp2Id"`        //3442,
+	Opp2Rus       string         `json:"Opp2Rus"`       //"Барселона",
+	SportName     string         `json:"SportName"`     //"Футбол",
+	SportNameEng  string         `json:"SportNameEng"`  //"Football",
+	SportNameRus  string         `json:"SportNameRus"`  //"Футбол",
+	Start         int            `json:"Start"`         //1456256700,
+	SubGames      []JSValueSmall `json:"SubGames"`      //[],
+	TvChannel     string         `json:"TvChannel"`     //null,
+	CurPeriodAsia string         `json:"curPeriodAsia"` //null
+}
+
+type JSValueSmall struct {
+	ConstId     int       `json:"ConstId"`     //3614811,
+	DopInfo     string    `json:"DopInfo"`     //null,
+	Events      []JSEvent `json:"Events"`      //[],
+	EventsCount int       `json:"EventsCount"` //655,
+	Finished    bool      `json:"Finished"`    //false,
+	GameType    string    `json:"GameType"`    //"",
+	GameTypeId  int       `json:"GameTypeId"`  //1,
+	GameVid     string    `json:"GameVid"`     //"",
+	Id          int       `json:"Id"`          //66032487,
+	LigaId      int       `json:"LigaId"`      //118587,
+	MainGameId  int       `json:"MainGameId"`  //66032487,
+	NameGame    string    `json:"NameGame"`    //"",
+	Num         int       `json:"Num"`         //297,
+	Period      int       `json:"Period"`      //0,
+	PeriodName  string    `json:"PeriodName"`  //"",
+	SportId     int       `json:"SportId"`     //1,
+	Top         int       `json:"Top"`         //1000,
+}
+
+type JSEvent struct {
+	B  bool    `json:"B"`
+	C  float32 `json:"C"`
+	CV string  `json:"CV"`
+	G  int     `json:"G"` // group?
+	// P  float32 `json:"P"`  // H1, H2, TL, TM  values
+	Pl string `json:"Pl"` //
+	T  int    `json:"T"`
+}
+
+// OLD INFO
 
 type Values struct {
 	B  string
@@ -27,6 +120,7 @@ type Values struct {
 	T  string
 }
 
+// JS Events by index
 type Event struct {
 	E1  Values // Events.0
 	EX  Values // Events.1

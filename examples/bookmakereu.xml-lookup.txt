@@ -1,0 +1,110 @@
+Array
+(
+    [Data] => Array
+        (
+            [cnt] => 1
+        )
+
+    [Leagues] => Array
+        (
+            [cnt] => 1
+        )
+
+    [league] => Array
+        (
+            [cnt] => 65
+            [tag] => Array
+                (
+                    [IdLeague] => 65
+                    [IdSport] => 65
+                    [Description] => 65
+                )
+
+        )
+
+    [banner] => Array
+        (
+            [cnt] => 235
+            [tag] => Array
+                (
+                    [ab] => 235
+                    [vtm] => 235
+                    [htm] => 235
+                )
+
+        )
+
+    [game] => Array
+        (
+            [cnt] => 875
+            [tag] => Array
+                (
+                    [idgm] => 875
+                    [gdesc] => 875
+                    [idgmtyp] => 875
+                    [gmdt] => 875
+                    [idlg] => 875
+                    [gmtm] => 875
+                    [idspt] => 875
+                    [vpt] => 875
+                    [hpt] => 875
+                    [vnum] => 875
+                    [hnum] => 875
+                    [evtyp] => 875
+                    [idgp] => 875
+                    [gpd] => 875
+                    [vtm] => 875
+                    [htm] => 875
+                    [stats] => 875
+                    [propCount] => 875
+                    [descgmtyp] => 875
+                )
+
+        )
+
+    [line] => Array
+        (
+            [cnt] => 1843
+            [tag] => Array
+                (
+                    [voddst] => 453
+                    [hoddst] => 453
+                    [ovt] => 453
+                    [ovoddst] => 453
+                    [unt] => 453
+                    [unoddst] => 453
+                    [vsprdt] => 453
+                    [vsprdoddst] => 453
+                    [hsprdt] => 453
+                    [hsprdoddst] => 453
+                    [vspt] => 453
+                    [vspoddst] => 453
+                    [hspt] => 453
+                    [hspoddst] => 453
+                    [voddsh] => 453
+                    [hoddsh] => 453
+                    [vsprdh] => 453
+                    [hsprdh] => 453
+                    [ovh] => 453
+                    [unh] => 453
+                    [vsph] => 453
+                    [hsph] => 453
+                    [voddshr] => 453
+                    [vsprdhr] => 453
+                    [ovhr] => 453
+                    [vsphr] => 453
+                    [btot] => 453
+                    [bsprd] => 453
+                    [bml] => 1843
+                    [haschild] => 453
+                    [related] => 1843
+                    [EmptyGame] => 453
+                    [tmnum] => 1390
+                    [tmname] => 1390
+                    [odds] => 1390
+                    [oddsh] => 1390
+                )
+
+        )
+
+)

@@ -1,0 +1,75 @@
+Totaly Done:
+	...
+
+Unmarshall done:
+	[check tags] Intertops
+	[check tags] Pinnacle
+	[check tags] BetClic
+	[check tags] William Hill (Orbis, html-list && 100s of feeds)
+	[check tags] Smarkets
+	Bookmaker.Eu (+JustBet +BetDSI +BetCris)
+	BetFred (templates-list && 100s of feeds)
+
+Partially:
+	[onsite-json] 1xbet (betconstruct)
+
+In-Progress:
+	... 
+
+Affiliate Required:
+	Betfair
+	Paddy Power
+	FavBet
+	SboBet
+	Matchbook
+	bet-at-home.com (?get=login+password?)
+	5dimes
+	Bet365
+	Ladbrokes
+	Sportingbet
+
+Possible (surebet.com can):
+	10Bet
+	12Bet
+	138
+	188Bet
+	18Bet
+	BetOnline
+	BetRedKings
+	BetVictor
+	Betdaq
+	Betsafe
+	Betsson
+	Betway
+	Bodog
+	Bwin
+	Cashpoint
+	Coral
+	Interwetten
+	MyBet
+	NordicBet
+	Offsidebet
+	Stanjames
+	Tennisi
+	The Greek
+	Tipico
+	Triobet
+	Unibet
+	Vbet
+	Winline
+	Winner
+	Балтбет
+	Бетсити
+	Гол+Пас
+	Зенит
+	Леон
+	Лига Ставок
+	МСЛ
+	МСЛ (Экспресс)
+	Марафон
+	Олимп
+	ОлимпБет
+	Пари-Матч
+	Плюс-Минус
+	Фон
+	Шанс

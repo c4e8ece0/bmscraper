@@ -40,17 +40,20 @@ func ParseXML(r io.Reader) (XMLSports, error) {
 	return v, e
 }
 
-type XMLChoice struct {
-	Name string `xml:"name,attr"`
-	Id   int    `xml:"id,attr"`
-	Odd  string `xml:"odd,attr"`
+type XMLSports struct {
+	Sport []XMLSport `xml:"sport"`
 }
 
-type XMLBet struct {
-	Code    string      `xml:"code,attr"`
-	Name    string      `xml:"name,attr"`
-	Id      int         `xml:"id,attr"`
-	Choices []XMLChoice `xml:"choice"`
+type XMLSport struct {
+	Name   string     `xml:"name,attr"`
+	Id     int        `xml:"id,attr"`
+	Events []XMLEvent `xml:"event"`
+}
+
+type XMLEvent struct {
+	Name    string     `xml:"name,attr"`
+	Id      int        `xml:"id,attr"`
+	Matches []XMLMatch `xml:"match"`
 }
 
 type XMLMatch struct {
@@ -62,18 +65,15 @@ type XMLMatch struct {
 	Bets      []XMLBet `xml:"bets>bet"`
 }
 
-type XMLEvent struct {
-	Name    string     `xml:"name,attr"`
-	Id      int        `xml:"id,attr"`
-	Matches []XMLMatch `xml:"match"`
+type XMLBet struct {
+	Code    string      `xml:"code,attr"`
+	Name    string      `xml:"name,attr"`
+	Id      int         `xml:"id,attr"`
+	Choices []XMLChoice `xml:"choice"`
 }
 
-type XMLSport struct {
-	Name   string     `xml:"name,attr"`
-	Id     int        `xml:"id,attr"`
-	Events []XMLEvent `xml:"event"`
-}
-
-type XMLSports struct {
-	Sport []XMLSport `xml:"sport"`
+type XMLChoice struct {
+	Name string `xml:"name,attr"`
+	Id   int    `xml:"id,attr"`
+	Odd  string `xml:"odd,attr"`
 }
