@@ -1,20 +1,20 @@
 Totaly Done:
-	...
+	--
 
 Unmarshall done:
+	Bookmaker.Eu (+JustBet +BetDSI +BetCris)
+	BetFred (templates-list && 100s of feeds)
 	[check tags] Intertops
 	[check tags] Pinnacle
 	[check tags] BetClic
 	[check tags] William Hill (Orbis, html-list && 100s of feeds)
 	[check tags] Smarkets
-	Bookmaker.Eu (+JustBet +BetDSI +BetCris)
-	BetFred (templates-list && 100s of feeds)
 
 Partially:
 	[onsite-json] 1xbet (betconstruct)
 
 In-Progress:
-	... 
+	--
 
 Affiliate Required:
 	Betfair
@@ -27,6 +27,7 @@ Affiliate Required:
 	Bet365
 	Ladbrokes
 	Sportingbet
+	Coral
 
 Possible (surebet.com can):
 	10Bet
@@ -44,7 +45,6 @@ Possible (surebet.com can):
 	Bodog
 	Bwin
 	Cashpoint
-	Coral
 	Interwetten
 	MyBet
 	NordicBet
@@ -73,3 +73,93 @@ Possible (surebet.com can):
 	Плюс-Минус
 	Фон
 	Шанс
+
+
+Surebet: Букмекеры с одинаковой линией
+Линии некоторых букмекеров полностью совпадают, и в таких случаях мы собираем данные только с одного из них.
+Если вы хотите делать ставки на другом букмекере — выберите его здесь, и он везде будет использоваться вместо основного.
+
+	10Bet 
+		10bet100 
+		BetPlay 
+		Betrally 
+		ComeOn 
+		Mobilbet 
+		NetBet 
+		RUbet 
+	12Bet 
+		1Bet 
+		Dafabet 
+		Fun122 
+		Fun88 
+		Mansion88 
+	138 
+		12bet.UK 
+	188Bet 
+		Roadbet 
+	5dimes 
+		IslandCasino 
+		SportBet 
+	Bet365 
+		28365365 (cn) 
+		365sport365 
+		Allsport365 
+		Bet365 (gr) 
+	BetClic 
+		Expekt 
+	BetRedKings 
+		24hPoker 
+		Chilibet 
+		Jetbull 
+		Noxwin 
+		Tower Gaming 
+	Betdaq 
+		2x2 
+	Bodog 
+		Bovada 
+	BookMaker 
+		BetCRIS 
+		BetDSI 
+	Bwin 
+		Gamebookers 
+		Partybets 
+	FavBet 
+		Fav-Bet.net 
+	Intertops 
+		AllYouBet 
+	Offsidebet 
+		LSBet 
+	Pinnacle 
+		1527846mr 
+		72hsyt56 
+		Pin1111 
+		Pin2222 
+	Sbobet 
+		SbobetAsia 
+	Sportingbet 
+		1x2sports 
+		YouWin 
+	Tipico 
+		Rivalo 
+	Unibet 
+		888sport 
+		Unibet (co.uk) 
+	Vbet 
+		Profitbet.kz 
+	Winner 
+		Bets 
+		Titan Bet 
+	Бетсити 
+		Бетсити (betcity-ru.com) 
+		Бетсити (betcity.by) 
+		Бетсити (betcity.mk) 
+	Зенит 
+		bkzenit 
+		Зенитбет 
+	Марафон 
+		MBet 
+		Marathon (co.uk) 
+	Олимп 
+		SportBet24 
+	Пари-Матч 
+		Parimatch (by) 

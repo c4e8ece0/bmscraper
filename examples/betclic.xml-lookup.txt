@@ -1,0 +1,89 @@
+Array
+(
+    [] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [version] => 1
+                    [encoding] => 1
+                )
+
+        )
+
+    [sports] => Array
+        (
+            [cnt] => 1
+            [tag] => Array
+                (
+                    [file_date] => 1
+                )
+
+        )
+
+    [sport] => Array
+        (
+            [cnt] => 24
+            [tag] => Array
+                (
+                    [name] => 24
+                    [id] => 24
+                )
+
+        )
+
+    [event] => Array
+        (
+            [cnt] => 186
+            [tag] => Array
+                (
+                    [name] => 186
+                    [id] => 186
+                )
+
+        )
+
+    [match] => Array
+        (
+            [cnt] => 966
+            [tag] => Array
+                (
+                    [name] => 966
+                    [id] => 966
+                    [start_date] => 966
+                    [live_id] => 966
+                    [streaming] => 966
+                )
+
+        )
+
+    [bets] => Array
+        (
+            [cnt] => 966
+        )
+
+    [bet] => Array
+        (
+            [cnt] => 7633
+            [tag] => Array
+                (
+                    [code] => 7633
+                    [name] => 7633
+                    [id] => 7633
+                )
+
+        )
+
+    [choice] => Array
+        (
+            [cnt] => 90843
+            [tag] => Array
+                (
+                    [name] => 90843
+                    [id] => 90843
+                    [odd] => 90843
+                )
+
+        )
+
+)

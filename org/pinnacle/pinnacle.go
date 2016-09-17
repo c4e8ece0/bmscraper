@@ -67,17 +67,17 @@ type XMLOdd struct {
 	ToBase         string `to_base"`
 }
 type XMLPeriod struct {
-	period_number            string       `xml:"period_number"`
-	period_description       string       `xml:"period_description"`
-	periodcutoff_datetimeGMT string       `xml:"periodcutoff_datetimeGMT"`
-	period_status            string       `xml:"period_status"`
-	period_update            string       `xml:"period_update"`
-	spread_maximum           string       `xml:"spread_maximum"`
-	moneyline_maximum        string       `xml:"moneyline_maximum"`
-	total_maximum            string       `xml:"total_maximum"`
-	MoneyLine                XMLMoneyline `xml:"moneyline"`
-	Spread                   XMLSpread    `xml:"spread"`
-	Total                    XMLTotal     `xml:"total"`
+	PeriodNumber            string       `xml:"period_number"`
+	PeriodDescription       string       `xml:"period_description"`
+	PeriodCutOffDatetimeGMT string       `xml:"periodcutoff_datetimeGMT"`
+	PeriodStatus            string       `xml:"period_status"`
+	PeriodUpdate            string       `xml:"period_update"`
+	SpreadMaximum           string       `xml:"spread_maximum"`
+	MoneylineMaximum        string       `xml:"moneyline_maximum"`
+	TotalMaximum            string       `xml:"total_maximum"`
+	MoneyLine               XMLMoneyline `xml:"moneyline"`
+	Spread                  XMLSpread    `xml:"spread"`
+	Total                   XMLTotal     `xml:"total"`
 }
 
 type XMLMoneyline struct {

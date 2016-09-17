@@ -1,12 +1,12 @@
 <?php
 
-$file = 'betfred.xml';
+$file = 'betclic.xml';
 
 ini_set('pcre.backtrack_limit', 1024 * 1024 * 1024);
 print 1;
 
 $t = file_get_contents($file);
-if(!preg_match_all('#<(([a-z\-_\.:]*)[^>]*)>#isu', $t, $f, PREG_SET_ORDER)) {
+if(!preg_match_all('#<(([a-z\-_\.:]*)[^>]*)/?>#isu', $t, $f, PREG_SET_ORDER)) {
 	die('Can\'t find tags');
 }
 print 2;
